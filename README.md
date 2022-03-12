@@ -31,3 +31,4 @@
 Materiais recomendados:
     
   * [CS50 - Aula de Python](https://www.youtube.com/watch?v=ZEQh45W_UDo&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8&index=7)
+  * https://www.freecodecamp.org/news/python-projects-for-beginners/
