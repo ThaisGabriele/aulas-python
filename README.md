@@ -4,20 +4,30 @@
 
 * Aula 1 - Introdução
 
-     1. Variáveis e tipos 
-     2. Entradas e Saídas
-     3. Exemplos
+     * Variáveis e tipos 
+     * Entradas e Saídas
+     * Exemplos
 
 * Aula 2 - Condicionais
 
-     1. Estruturas Condicionais 
-     2. Estruturas Condicionais Aninhadas
-     3. Exemplos
+     * Estruturas Condicionais 
+     * Estruturas Condicionais Aninhadas
+     * Exemplos
 
 * Aula 3 - Estruturas de repetição
 
-     1. while
-     2. for
-     3. Exemplos
+     *  While
+     * for
+     * Exemplos
+     
+* Outros assuntos:
+
+     * Lista
+     * Módulos (calendar, numpy)
+     * Vetores e matrizes
+     * Dicionário
+     * Manipulação de arquivo
     
 Materiais recomendados:
+    
+  * [CS50 - Aula de Python](https://www.youtube.com/watch?v=ZEQh45W_UDo&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8&index=7)
